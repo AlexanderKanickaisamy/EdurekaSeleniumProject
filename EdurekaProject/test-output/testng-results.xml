@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="245266" started-at="2017-05-03T20:09:53Z" finished-at="2017-05-03T20:13:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="245266" started-at="2017-05-03T20:09:53Z" finished-at="2017-05-03T20:13:58Z">
+      <class name="testCases.TC002_EditLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="beforeSuite" is-config="true" duration-ms="3407" started-at="2017-05-04T01:39:49Z" finished-at="2017-05-04T01:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="beforeTest" is-config="true" duration-ms="39" started-at="2017-05-04T01:39:53Z" finished-at="2017-05-04T01:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="setData" is-config="true" duration-ms="1" started-at="2017-05-04T01:39:53Z" finished-at="2017-05-04T01:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="beforeMethod" is-config="true" duration-ms="100984" started-at="2017-05-04T01:39:56Z" finished-at="2017-05-04T01:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="editLead" duration-ms="112835" started-at="2017-05-04T01:41:37Z" data-provider="fetchData" finished-at="2017-05-04T01:43:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AntonyAlexander@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maurya]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Maurya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="afterMethod" is-config="true" duration-ms="27901" started-at="2017-05-04T01:43:30Z" finished-at="2017-05-04T01:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-05-04T01:43:58Z" finished-at="2017-05-04T01:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testCases.TC002_EditLead@bbc1e0]" name="afterSuite" is-config="true" duration-ms="2097" started-at="2017-05-04T01:43:58Z" finished-at="2017-05-04T01:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.TC002_EditLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
